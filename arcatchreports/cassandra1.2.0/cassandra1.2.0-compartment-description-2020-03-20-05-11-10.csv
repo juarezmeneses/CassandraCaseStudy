@@ -1,0 +1,2 @@
+Id;Label;Class Search Pattern;Method Search Pattern
+CPT01;cassandra;org.apache.cassandra.*;*:*

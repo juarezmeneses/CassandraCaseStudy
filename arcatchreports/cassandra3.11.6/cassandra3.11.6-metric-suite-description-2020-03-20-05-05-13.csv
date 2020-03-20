@@ -1,0 +1,46 @@
+Short Name;Full Name
+WMC;Weighted Methods per Class
+DIT;Depth of Inheritance Tree
+NOC;Number of Children
+CBO;Coupling Between Objects
+RFC;Response For Class
+LCOM;Lack of Cohesion of Methods v1
+LCOM2;Lack of Cohesion of Methods v2
+LCOM3;Lack of Cohesion of Methods v3
+CCC;Class Cyclomatic Complexity
+LoC;Lines of Code
+NoI;Number of Invovations
+NoM;Number of Methods
+NoPM;Number of Public Methods
+NoA;Number of Declared Attributes
+NoPA;Number of Public Attributes
+Ca;Afferent Coupling
+Ce;Efferent Coupling
+LMLoC;Longest Method Lines of Code
+LPL;Longest Parameter List
+ECC;Exceptional Cyclomatic Complexity
+TCC;Try Block Cyclomatic Complexity
+HCC;Catch Block Cyclomatic Complexity
+FCC;Finally Block Cyclomatic Complexity
+TFC;Troubleness Factor per Class
+TLoC;Try Block Lines of Code
+CLoC;Catch Block Lines of Code
+FLoC;Finally Block Lines of Code
+RCo;Raising Coupling
+SCo;Signaling  Coupling
+HCo;Hadling  Coupling
+NoR;Number of Raisings
+NoS;Number of Signalings
+NoH;Number fo Handlings
+NoCRN;Number of Catch and Return Null
+NoCA;Number of Catch and Abort
+NoOC;Number of Over-Catches
+NoOCA;Number of Over-Catches and Abort
+NoNPB;Number of Nested Protected Blocks
+NoGH;Number of Generic Handlings
+NoGS;Number of Generic Signalings
+NoEH;Number of Empty Handlings
+NoDR;Number of Destructive Remappings
+NoCI;Number of Catch and Ignore
+NoSF;Number of Signalings in Finally Blocks
+NoSKS;Number of Signaling the Kitchen Sink

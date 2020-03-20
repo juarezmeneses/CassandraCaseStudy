@@ -1,0 +1,17 @@
+Rule Id;Rule Label;Criticality Label;Criticality Value;Description;Checked;Passing
+ADR16;;WARNING;1;compartment (cassandra) constrained to (NoM > 10);true;false
+ADR11;;WARNING;1;compartment (cassandra) constrained to (NoSF = 0.0);true;true
+ADR15;;WARNING;1;compartment (cassandra) constrained to (NoA > 15);true;false
+ADR12;;WARNING;1;compartment (cassandra) constrained to (NoSKS = 0.0);true;true
+ADR14;;WARNING;1;compartment (cassandra) constrained to ((((NoM + NoA) > 3) & (WMC < 31)) | (((NoM + NoA) > 5) & (WMC < 47)));true;false
+ADR07;;WARNING;1;compartment (cassandra) constrained to (NoGS = 0.0);true;true
+ADR02;;WARNING;1;compartment (cassandra) constrained to (NoCI = 0.0);true;true
+ADR04;;WARNING;1;compartment (cassandra) constrained to (NoEH = 0.0);true;true
+ADR09;;WARNING;1;compartment (cassandra) constrained to (NoOCA = 0.0);true;true
+ADR01;;WARNING;1;compartment (cassandra) constrained to (NoCA = 0.0);true;true
+ADR03;;WARNING;1;compartment (cassandra) constrained to (NoCRN = 0.0);true;true
+ADR05;;WARNING;1;compartment (cassandra) constrained to (NoDR = 0.0);true;true
+ADR08;;WARNING;1;compartment (cassandra) constrained to (NoNPB = 0.0);true;true
+ADR10;;WARNING;1;compartment (cassandra) constrained to (NoOC = 0.0);true;true
+ADR13;;WARNING;1;compartment (cassandra) constrained to ((Ce / (Ce + Ca)) <= 0.3);true;false
+ADR06;;WARNING;1;compartment (cassandra) constrained to (NoGH = 0.0);true;true

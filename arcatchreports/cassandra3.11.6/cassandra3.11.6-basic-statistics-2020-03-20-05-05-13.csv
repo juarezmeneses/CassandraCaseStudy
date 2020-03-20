@@ -1,0 +1,12 @@
+Project Name;Cassandra
+Project Source Path;./Cassandra/Cassandra_3.11.6/src/java
+Number of Units;2607
+Number of Exceptions;57
+Lines of Code;304512.0
+Catch Block Lines of Code;3224.0
+Overall Number of Rules;16
+Overall Number of Passing Rules;12
+Number of Anti-Drift Rules;16
+Number of Anit-Drift Passing Rules;12
+Number of Anti-Erosion Rules;0
+Number of Anti-Erosion Passing Rules;0
