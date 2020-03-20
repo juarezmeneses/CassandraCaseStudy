@@ -1,6 +1,11 @@
 # CassandraCaseStudy
 
+Tool: [ArCatch](https://github.com/EvidenSE/ArCatch)
+
 Analyzed Project: [Cassandra](https://github.com/apache/cassandra)
+
+## Goal:
+Static-architecture conformance checking of exception handling design in the Cassandra project.
 
 ## Summary
 
